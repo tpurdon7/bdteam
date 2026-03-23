@@ -65,3 +65,4 @@ Internal outbound prospecting and outreach platform built with Next.js, Supabase
 - Server actions validate payloads and revalidate UI routes; persistence wiring is the next integration step.
 - Human review remains the default, and no silent autosend path is implemented.
 # bdteam
+# bdteam
