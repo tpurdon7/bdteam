@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-03-19T10:00:00.000Z",
+  "assumptions": [
+    "This first run prioritized AI infrastructure and developer-tooling companies because the active ICPs in the repo score those segments highest.",
+    "Where a named executive was identifiable but no direct public email was available, the best documented public contact path is recorded instead of guessing.",
+    "All outreach drafts are review-first and should not be sent without an explicit approve-to-send action."
+  ],
+  "summary": {
+    "generated_at": "2026-03-19T10:00:00.000Z",
+    "total_leads_reviewed": 18,
+    "total_strong_leads_found": 5,
+    "total_draft_ready": 5,
+    "total_needing_manual_review": 4,
+    "top_5_highest_priority_opportunities": [
+      "Linear / Casey Bertenthal",
+      "Warp / Zach Lloyd",
+      "Modal / Justin Dignelli",
+      "Glean / Bradley Scott",
+      "NEAR AI / Matt Kummell"
+    ],
+    "key_blockers_or_missing_data": [
+      "Most targets expose demo/contact forms publicly but not verified direct executive emails.",
+      "Public sources show strong GTM signals, but direct warm-intro paths are still missing for all five accounts."
+    ]
+  },
+  "leads": [
+    {
+      "company_name": "Linear",
+      "company_url": "https://linear.app",
+      "person_name": "Casey Bertenthal",
+      "person_role": "Head of Sales",
+      "geography": "North America, Europe",
+      "sector": "Developer tools",
+      "why_this_lead_matters": "Linear is scaling beyond product-led adoption with both GTM hiring and a visible enterprise sales motion, which makes outbound process infrastructure unusually timely.",
+      "best_outreach_angle": "Position a review-first outbound system as a way to preserve Linear's craft standards while giving the sales team better account prioritization and cleaner personalization at scale.",
+      "contact_method": "contact_form",
+      "contact_detail": "https://linear.app/contact/sales",
+      "contact_confidence_high_medium_low": "high",
+      "fallback_contact_path": "hello@linear.app",
+      "personalization_points": [
+        "Linear's About page names Casey Bertenthal as Head of Sales.",
+        "Linear is hiring both a Programs & Growth Marketing Lead and an Account Executive (Startups).",
+        "The company frames itself as a system for teams and agents, which aligns with operationally sharp outbound tooling."
+      ],
+      "message_draft_short": "Casey, Linear's mix of organic pull, enterprise sales, and new growth hiring looks like the point where outbound quality starts mattering as much as volume. We build review-first prospecting workflows that keep messaging tight while giving reps a much cleaner queue to work from.",
+      "message_draft_warm": "Casey, I spent some time on Linear's recent hiring and product narrative. The combination of a named sales leader, active AE hiring, and a new Programs & Growth Marketing Lead suggests you're formalizing demand generation without wanting to lose the quality bar that makes Linear feel distinct. We help teams turn public-market signals into a compact, source-backed review queue so reps can move faster without sending generic outreach.",
+      "message_draft_followup": "Following up because Linear seems to be at a very specific GTM inflection point: more enterprise intent, more growth investment, and more need for relevance discipline. If useful, I can show what a Linear-shaped review queue would look like.",
+      "source_links": [
+        "https://linear.app/about",
+        "https://linear.app/careers/0af2a59d-2018-4b4f-8b30-fba22b7e5220",
+        "https://linear.app/careers/c21af93e-210f-4969-8eaa-90fb16a5b720",
+        "https://linear.app/contact/sales"
+      ],
+      "status": "needs_review",
+      "next_recommended_action": "Review drafts and decide whether to route through Casey via sales form or look for a warm intro."
+    },
+    {
+      "company_name": "Warp",
+      "company_url": "https://www.warp.dev",
+      "person_name": "Zach Lloyd",
+      "person_role": "Founder & CEO",
+      "geography": "United States",
+      "sector": "AI developer tools",
+      "why_this_lead_matters": "Warp is actively reshaping both pricing and cloud-agent orchestration, indicating a company still tightening its monetization and enterprise GTM motion while category demand accelerates.",
+      "best_outreach_angle": "Lead with the idea that review-first outbound can help Warp scale enterprise conversations around Oz and Warp Code without dropping specificity or founder-level message quality.",
+      "contact_method": "contact_form",
+      "contact_detail": "https://www.warp.dev/contact-sales",
+      "contact_confidence_high_medium_low": "high",
+      "fallback_contact_path": "support@warp.dev",
+      "personalization_points": [
+        "Zach Lloyd authored both the Build pricing update and the Oz launch post.",
+        "Warp describes itself as an agentic development environment and now sells a stronger enterprise motion.",
+        "The company says it is trusted by over 700,000 developers and 56% of Fortune 500 engineering teams."
+      ],
+      "message_draft_short": "Zach, Warp's recent pricing shift plus Oz makes it look like you're moving from product excitement into a more repeatable enterprise capture phase. We help teams turn high-signal account research into a review queue founders can trust before anything goes out.",
+      "message_draft_warm": "Zach, the through-line across Warp 2.0, Warp Code, Oz, and the Build pricing update is pretty clear: you are expanding from beloved devtool into a broader enterprise and agent-orchestration platform. That usually creates a messaging problem before it creates a tooling problem. We built a review-first outbound workflow that keeps every prospect tied to public evidence and preserves quality while the pipeline gets larger.",
+      "message_draft_followup": "Circling back because Warp feels like a strong fit for source-backed outbound rather than template-heavy sequencing. Happy to send a concrete example using Oz or enterprise adoption signals.",
+      "source_links": [
+        "https://www.warp.dev/about",
+        "https://www.warp.dev/blog/reimagining-coding-agentic-development-environment",
+        "https://www.warp.dev/blog/oz-orchestration-platform-cloud-agents",
+        "https://www.warp.dev/blog/warp-new-pricing-flexibility-byok",
+        "https://www.warp.dev/contact-sales"
+      ],
+      "status": "needs_review",
+      "next_recommended_action": "Approve founder-targeted version or swap to a sales/contact-owner route if you want a less top-down entry."
+    },
+    {
+      "company_name": "Modal",
+      "company_url": "https://modal.com",
+      "person_name": "Justin Dignelli",
+      "person_role": "VP of Sales",
+      "geography": "New York, San Francisco, Stockholm",
+      "sector": "AI infrastructure",
+      "why_this_lead_matters": "Modal has both a fresh Series B and a newly installed VP of Sales, which is one of the cleanest public signals that outbound process, targeting rigor, and messaging infrastructure are being built now.",
+      "best_outreach_angle": "Frame the offer around helping a new sales leader stand up a compact, evidence-backed outbound motion that matches Modal's technical credibility.",
+      "contact_method": "email",
+      "contact_detail": "sales@modal.com",
+      "contact_confidence_high_medium_low": "medium",
+      "fallback_contact_path": "https://modal.com",
+      "personalization_points": [
+        "Modal announced an $87M Series B in September 2025.",
+        "Justin Dignelli joined as VP of Sales in September 2025 and wrote publicly about the next stage of growth.",
+        "Modal's homepage emphasizes fast AI deployment, elastic GPU scaling, and infrastructure for production workloads."
+      ],
+      "message_draft_short": "Justin, the combination of a fresh Series B and your move into the VP Sales seat makes Modal look like a strong timing window for tightening outbound from day one. We build review-first prospecting queues that keep technical relevance high without slowing the team down.",
+      "message_draft_warm": "Justin, I read both Modal's Series B announcement and your note on joining as VP of Sales. The pattern is familiar: product credibility is already there, but the next layer is building a repeatable outbound motion that can speak credibly to technical buyers without turning into generic infra sales copy. We help teams assemble source-backed target accounts, contact paths, and drafts into a clean operator review queue before anything is sent.",
+      "message_draft_followup": "Following up because Modal is one of the clearer 'right moment' AI infra accounts I found this week. If useful, I can share a sample target list built around the buyer segments your sales motion is likely prioritizing.",
+      "source_links": [
+        "https://modal.com/blog/announcing-our-series-b",
+        "https://modal.com/blog/justin-dignelli",
+        "https://modal.com/company",
+        "https://modal.com",
+        "https://modal.com/docs/guide/billing"
+      ],
+      "status": "needs_review",
+      "next_recommended_action": "Manual review needed on whether to email sales@modal.com with Justin-forward positioning or hold for a direct executive path."
+    },
+    {
+      "company_name": "Glean",
+      "company_url": "https://www.glean.com",
+      "person_name": "Bradley Scott",
+      "person_role": "VP, Sales",
+      "geography": "United States",
+      "sector": "Enterprise AI software",
+      "why_this_lead_matters": "Glean's ARR acceleration and public sales-agent narrative make it one of the strongest strategic accounts in this batch, especially if the goal is landing teams already investing heavily in AI-enabled revenue motion.",
+      "best_outreach_angle": "Center the outreach on helping Bradley's team operationalize high-context outbound for enterprise AI buyers without compromising the source-backed rigor Glean already markets.",
+      "contact_method": "contact_form",
+      "contact_detail": "https://www.glean.com/get-a-demo",
+      "contact_confidence_high_medium_low": "medium",
+      "fallback_contact_path": "press@glean.com",
+      "personalization_points": [
+        "Glean reported surpassing $200M ARR in December 2025 after doubling revenue in nine months.",
+        "Bradley Scott's author page presents him as VP of Worldwide Sales.",
+        "Bradley also published on the company's sales-agent playbook, making the angle more specific than a generic enterprise-AI pitch."
+      ],
+      "message_draft_short": "Brad, Glean's revenue curve and public focus on sales agents suggest your team is already deep into AI-enabled GTM. We help revenue teams keep outbound human-reviewed and source-backed so scale doesn't flatten message quality.",
+      "message_draft_warm": "Brad, I came across both Glean's $200M ARR milestone and your piece on the new sales productivity playbook. What stood out is that you are not just selling AI, you are actively modeling how AI should improve revenue work. We built a review-first outbound system for teams that want cleaner targeting, evidence-linked personalization, and better operator control than standard sequencing tools usually provide.",
+      "message_draft_followup": "Wanted to follow up because Glean is one of the few accounts where the messaging fit is unusually direct: AI-native revenue motion still benefits from a very human review layer. Happy to send a concrete example if useful.",
+      "source_links": [
+        "https://www.glean.com/press/glean-surpasses-200m-in-arr-for-enterprise-ai-doubling-revenue-in-nine-months",
+        "https://www.glean.com/authors/bradley-scott",
+        "https://www.glean.com/get-a-demo",
+        "https://www.glean.com/press/glean-named-as-one-of-the-emerging-leaders-in-the-gartner-r-emerging-market-quadrant-of-the-2025-innovation-guide-for-generative-ai-knowledge-management-apps"
+      ],
+      "status": "needs_review",
+      "next_recommended_action": "Review whether Glean is strategic enough to justify enterprise-account effort despite indirect contact routing."
+    },
+    {
+      "company_name": "NEAR AI",
+      "company_url": "https://near.ai",
+      "person_name": "Matt Kummell",
+      "person_role": "Chief Commercial Officer",
+      "geography": "San Francisco, US",
+      "sector": "Private AI infrastructure",
+      "why_this_lead_matters": "NEAR AI is explicitly hiring its first sales and business development leader, which is one of the clearest public indicators that top-of-funnel process, list quality, and message quality are live operational priorities.",
+      "best_outreach_angle": "Pitch a founder-mode outbound operating system that helps a small commercial team stand up repeatable pipeline generation without losing evidence, clarity, or contact-path discipline.",
+      "contact_method": "contact_form",
+      "contact_detail": "https://near.ai/contact",
+      "contact_confidence_high_medium_low": "medium",
+      "fallback_contact_path": "https://job-boards.eu.greenhouse.io/nearai/jobs/4746804101",
+      "personalization_points": [
+        "The live job posting says the first Sales & Business Development Director will report directly to Matt Kummell, Chief Commercial Officer.",
+        "The role calls out cold outbound prospecting, CRM hygiene, and building repeatable process from the ground up.",
+        "NEAR AI positions itself around private inference and verifiable privacy for sensitive enterprise workloads."
+      ],
+      "message_draft_short": "Matt, your first sales hire brief reads like a company building commercial process from scratch at exactly the right moment. We help teams stand up a high-signal, review-first outbound queue with source evidence, contact paths, and ready-to-edit drafts rather than just handing reps a raw list.",
+      "message_draft_warm": "Matt, I read through NEAR AI's current sales and business development opening and the signal is unusually clear: you need repeatable pipeline generation, disciplined CRM hygiene, and outreach that can speak credibly to technical buyers in privacy-sensitive categories. We built an outbound operating layer for that exact phase, where quality matters more than list volume and every prospect needs evidence attached before outreach is approved.",
+      "message_draft_followup": "Following up because NEAR AI's hiring brief is one of the strongest 'build the commercial system now' signals in this batch. If useful, I can send a small example queue shaped around the buyer profiles in the role description.",
+      "source_links": [
+        "https://job-boards.eu.greenhouse.io/nearai/jobs/4746804101",
+        "https://near.ai",
+        "https://near.ai/contact"
+      ],
+      "status": "draft_ready",
+      "next_recommended_action": "High-priority review: decide whether to reach out now while the commercial buildout is clearly active."
+    }
+  ]
+}
